@@ -1,0 +1,8 @@
+
+body{font-family:Arial;margin:0;padding:0;background:#f4f4f4;}
+header{background:#003366;color:#fff;padding:20px;}
+nav{background:#eee;padding:10px;}
+nav a{margin-right:10px;text-decoration:none;color:#003366;}
+section{padding:20px;}
+#results .item{display:flex;background:#fff;margin:10px 0;padding:10px;border-radius:6px;}
+#results img{width:80px;height:80px;margin-right:10px;}
