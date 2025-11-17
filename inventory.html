@@ -20,11 +20,12 @@ document.addEventListener('DOMContentLoaded', () => {
           const div = document.createElement('div');
           div.className = 'item';
           div.innerHTML = `
-            <img src='placeholder.jpg' alt='Item image'>
+            <img src="placeholder.jpg" alt="Item image">
             <h3>${item.description}</h3>
             <p>Model: ${item.model}</p>
             <p>Price: ${item.price}</p>
             <p>Quantity: ${item.quantity}</p>
+            <button onclick='showDetail(${JSON.stringify(item)})'>View Details</button>
           `;
           grid.appendChild(div);
         });
@@ -40,6 +41,20 @@ function searchItems() {
     let text = items[i].innerText.toLowerCase();
     items[i].style.display = text.includes(input) ? '' : 'none';
   }
+}
+
+function showDetail(item) {
+  document.getElementById('detail-img').src = 'placeholder.jpg';
+  document.getElementById('detail-title').textContent = item.description;
+  document.getElementById('detail-model').textContent = item.model;
+  document.getElementById('detail-price').textContent = item.price;
+  document.getElementById('detail-quantity').textContent = item.quantity;
+  document.getElementById('detail-description').textContent = "High-quality spare part for various vehicles.";
+  document.getElementById('detail-view').style.display = 'flex';
+}
+
+function closeDetail() {
+  document.getElementById('detail-view').style.display = 'none';
 }
 </script>
 </head>
@@ -57,6 +72,24 @@ function searchItems() {
     <button onclick="searchItems()">Search</button>
   </div>
 </main>
+
+<!-- Detail View Popup -->
+<div id="detail-view" class="detail-view" style="display:none;">
+  <div class="detail-container">
+    <div class="detail-image">
+      <img id="detail-img" src="placeholder.jpg" alt="Item image">
+    </div>
+    <div class="detail-info">
+      <h2 id="detail-title"></h2>
+      <p><strong>Model:</strong> <span id="detail-model"></span></p>
+      <p><strong>Price:</strong> <span id="detail-price"></span></p>
+      <p><strong>Quantity:</strong> <span id="detail-quantity"></span></p>
+      <p id="detail-description"></p>
+      <button onclick="closeDetail()">Close</button>
+    </div>
+  </div>
+</div>
+
 <footer>
   <p>&copy; 2025 TML Spare Parts</p>
 </footer>
