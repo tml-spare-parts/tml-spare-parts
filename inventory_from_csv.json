@@ -1,23 +1,23 @@
 [
   {
-    "QUANTITY": NaN,
+    "QUANTITY": "Not Available",
     "DESCRIPTION": "CARTRIDGES",
     "MODEL NUMBER": "R236P (LUBZ)",
-    "TYPES OF VEHICLE": NaN,
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K25.00"
   },
   {
     "QUANTITY": "4",
     "DESCRIPTION": "GASKET KIT PIN ",
     "MODEL NUMBER": "384778900",
-    "TYPES OF VEHICLE": NaN,
-    "PRICE": NaN
+    "TYPES OF VEHICLE": "Not Available",
+    "PRICE": "Not Available"
   },
   {
-    "QUANTITY": NaN,
+    "QUANTITY": "Not Available",
     "DESCRIPTION": "FLEET GUARD",
     "MODEL NUMBER": "FF-106",
-    "TYPES OF VEHICLE": NaN,
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K61.00"
   },
   {
@@ -46,48 +46,48 @@
     "DESCRIPTION": "STOP SWITCH",
     "MODEL NUMBER": "PH-503-7182-01",
     "TYPES OF VEHICLE": "CHAINSAW HUSQVARNA",
-    "PRICE": NaN
+    "PRICE": "Not Available"
   },
   {
     "QUANTITY": "4",
     "DESCRIPTION": "BRACKET BOLT",
     "MODEL NUMBER": "PH-503-2002-16",
     "TYPES OF VEHICLE": "CHAINSAW HUSQVARNA",
-    "PRICE": NaN
+    "PRICE": "Not Available"
   },
   {
     "QUANTITY": "4",
     "DESCRIPTION": "DECOMP SWITCH  ",
     "MODEL NUMBER": "PH-503-7153-01",
     "TYPES OF VEHICLE": "CHAINSAW HUSQVARNA",
-    "PRICE": NaN
+    "PRICE": "Not Available"
   },
   {
     "QUANTITY": "4",
     "DESCRIPTION": "SPIKES",
     "MODEL NUMBER": "PH-537-0171-01",
     "TYPES OF VEHICLE": "CHAINSAW HUSQVARNA",
-    "PRICE": NaN
+    "PRICE": "Not Available"
   },
   {
     "QUANTITY": "6",
     "DESCRIPTION": "SPACER",
     "MODEL NUMBER": "PH-503-7752-01",
     "TYPES OF VEHICLE": "CHAINSAW HUSQVARNA",
-    "PRICE": NaN
+    "PRICE": "Not Available"
   },
   {
     "QUANTITY": "4",
     "DESCRIPTION": "COPPER BOLT",
     "MODEL NUMBER": "PH-503-2006-08",
     "TYPES OF VEHICLE": "CHAINSAW HUSQVARNA",
-    "PRICE": NaN
+    "PRICE": "Not Available"
   },
   {
     "QUANTITY": "3",
     "DESCRIPTION": "PISTON RINGS",
     "MODEL NUMBER": "C8-322-000-00",
-    "TYPES OF VEHICLE": NaN,
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K264.00"
   },
   {
@@ -95,77 +95,77 @@
     "DESCRIPTION": "BLUE CABLE",
     "MODEL NUMBER": "PH-503-6261-02",
     "TYPES OF VEHICLE": "HUSQVARNA",
-    "PRICE": NaN
+    "PRICE": "Not Available"
   },
   {
     "QUANTITY": "4",
     "DESCRIPTION": "HEAD GASKET",
     "MODEL NUMBER": "PH-537-0057-01",
     "TYPES OF VEHICLE": "HUSQVARNA",
-    "PRICE": NaN
+    "PRICE": "Not Available"
   },
   {
     "QUANTITY": "1",
     "DESCRIPTION": "PULLY SPRING",
     "MODEL NUMBER": "PH-503-7872-01",
     "TYPES OF VEHICLE": "HUSQVARNA",
-    "PRICE": NaN
+    "PRICE": "Not Available"
   },
   {
     "QUANTITY": "4",
     "DESCRIPTION": "HOOD CLIP",
     "MODEL NUMBER": "PH-503-7401-02",
     "TYPES OF VEHICLE": "HUSQVARNA",
-    "PRICE": NaN
+    "PRICE": "Not Available"
   },
   {
     "QUANTITY": "1",
     "DESCRIPTION": "HOOK",
     "MODEL NUMBER": "PH-537-0155-01",
     "TYPES OF VEHICLE": "HUSQVARNA",
-    "PRICE": NaN
+    "PRICE": "Not Available"
   },
   {
     "QUANTITY": "1",
     "DESCRIPTION": "SPROKET",
     "MODEL NUMBER": "503980071",
     "TYPES OF VEHICLE": "HUSQVARNA",
-    "PRICE": NaN
+    "PRICE": "Not Available"
   },
   {
     "QUANTITY": "6",
     "DESCRIPTION": "CLUTCH SPRING",
     "MODEL NUMBER": "503-5287-02",
     "TYPES OF VEHICLE": "HUSQVARNA",
-    "PRICE": NaN
+    "PRICE": "Not Available"
   },
   {
     "QUANTITY": "4",
     "DESCRIPTION": "HEAD SHIELD",
     "MODEL NUMBER": "PH-537-0862-01",
     "TYPES OF VEHICLE": "HUSQVARNA",
-    "PRICE": NaN
+    "PRICE": "Not Available"
   },
   {
     "QUANTITY": "2",
     "DESCRIPTION": "ROPE ROTOR ",
     "MODEL NUMBER": "503-596-01",
     "TYPES OF VEHICLE": "HUSQVARNA",
-    "PRICE": NaN
+    "PRICE": "Not Available"
   },
   {
     "QUANTITY": "2",
     "DESCRIPTION": "OUTER GUIDE PEATE",
     "MODEL NUMBER": "537-0137-02",
     "TYPES OF VEHICLE": "HUSQVARNA",
-    "PRICE": NaN
+    "PRICE": "Not Available"
   },
   {
     "QUANTITY": "4",
     "DESCRIPTION": "LEVER",
     "MODEL NUMBER": "503-55-66-01",
     "TYPES OF VEHICLE": "HUSQVARNA",
-    "PRICE": NaN
+    "PRICE": "Not Available"
   },
   {
     "QUANTITY": "1",
@@ -178,14 +178,14 @@
     "QUANTITY": "17",
     "DESCRIPTION": "SELF VULCANIZING TUBE PATCHES",
     "MODEL NUMBER": "65*125MM",
-    "TYPES OF VEHICLE": NaN,
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K10.00"
   },
   {
     "QUANTITY": "46",
     "DESCRIPTION": "SELF VULCANIZING TUBE PATCHES",
     "MODEL NUMBER": "75MM P112",
-    "TYPES OF VEHICLE": NaN,
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K7.00"
   },
   {
@@ -199,7 +199,7 @@
     "QUANTITY": "2",
     "DESCRIPTION": "RADIATOR CAP",
     "MODEL NUMBER": "R124",
-    "TYPES OF VEHICLE": NaN,
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K30.00"
   },
   {
@@ -213,8 +213,8 @@
     "QUANTITY": "1",
     "DESCRIPTION": "BRAKE CYLINDER",
     "MODEL NUMBER": "FM-6224/ (8-98117-639-0)",
-    "TYPES OF VEHICLE": NaN,
-    "PRICE": NaN
+    "TYPES OF VEHICLE": "Not Available",
+    "PRICE": "Not Available"
   },
   {
     "QUANTITY": "24",
@@ -227,14 +227,14 @@
     "QUANTITY": "17",
     "DESCRIPTION": "SPARK PLUGS",
     "MODEL NUMBER": "5510 B8HS NGK",
-    "TYPES OF VEHICLE": NaN,
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K27.00"
   },
   {
     "QUANTITY": "11",
     "DESCRIPTION": "SPARK PLUGS",
     "MODEL NUMBER": "5810 B9HS NGK",
-    "TYPES OF VEHICLE": NaN,
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K29.00"
   },
   {
@@ -256,27 +256,27 @@
     "DESCRIPTION": "SPARK PLUGS",
     "MODEL NUMBER": "6511 BP5ES NGK",
     "TYPES OF VEHICLE": "GENERATOR",
-    "PRICE": NaN
+    "PRICE": "Not Available"
   },
   {
     "QUANTITY": "1",
     "DESCRIPTION": "SPARK PLUGS",
     "MODEL NUMBER": "2463 B7HS NGK",
-    "TYPES OF VEHICLE": NaN,
-    "PRICE": NaN
+    "TYPES OF VEHICLE": "Not Available",
+    "PRICE": "Not Available"
   },
   {
     "QUANTITY": "1",
     "DESCRIPTION": "BALL JOINT",
     "MODEL NUMBER": "SB-7761",
-    "TYPES OF VEHICLE": NaN,
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K240.00"
   },
   {
     "QUANTITY": "1",
     "DESCRIPTION": "BALL JOINT",
     "MODEL NUMBER": "SB-7312",
-    "TYPES OF VEHICLE": NaN,
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K240.00"
   },
   {
@@ -289,7 +289,7 @@
   {
     "QUANTITY": "1",
     "DESCRIPTION": "ENGINE MOUNTING",
-    "MODEL NUMBER": NaN,
+    "MODEL NUMBER": "Not Available",
     "TYPES OF VEHICLE": "KIA 2700",
     "PRICE": "K220.00"
   },
@@ -298,20 +298,20 @@
     "DESCRIPTION": "SP-20 LUBRICANT ",
     "MODEL NUMBER": "HFC134a",
     "TYPES OF VEHICLE": "AIR CONDITION/ MOTOR OIL",
-    "PRICE": NaN
+    "PRICE": "Not Available"
   },
   {
     "QUANTITY": "3",
     "DESCRIPTION": "FLAT FILES",
-    "MODEL NUMBER": NaN,
-    "TYPES OF VEHICLE": NaN,
+    "MODEL NUMBER": "Not Available",
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K32.00"
   },
   {
-    "QUANTITY": NaN,
+    "QUANTITY": "Not Available",
     "DESCRIPTION": "SPARK PLUGS",
     "MODEL NUMBER": "BOSOH WSR 6F",
-    "TYPES OF VEHICLE": NaN,
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K28.00"
   },
   {
@@ -347,21 +347,21 @@
     "DESCRIPTION": "RUBBER SPRING BUSHING",
     "MODEL NUMBER": "BLACK",
     "TYPES OF VEHICLE": "MITSUBISSHI",
-    "PRICE": NaN
+    "PRICE": "Not Available"
   },
   {
     "QUANTITY": "16",
     "DESCRIPTION": "RUBBER SPRING BUSHING",
     "MODEL NUMBER": "ORANGE",
     "TYPES OF VEHICLE": "LAND CRUIZER",
-    "PRICE": NaN
+    "PRICE": "Not Available"
   },
   {
     "QUANTITY": "11",
     "DESCRIPTION": "BATTERY TERMINAL",
-    "MODEL NUMBER": NaN,
-    "TYPES OF VEHICLE": NaN,
-    "PRICE": NaN
+    "MODEL NUMBER": "Not Available",
+    "TYPES OF VEHICLE": "Not Available",
+    "PRICE": "Not Available"
   },
   {
     "QUANTITY": "2",
@@ -374,14 +374,14 @@
     "QUANTITY": "2",
     "DESCRIPTION": "STABIL IZER",
     "MODEL NUMBER": "54618-58Y10 */DMY 211078",
-    "TYPES OF VEHICLE": NaN,
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K200.00"
   },
   {
     "QUANTITY": "3",
     "DESCRIPTION": "GRINDING WHEEL METAL",
     "MODEL NUMBER": "8200627",
-    "TYPES OF VEHICLE": NaN,
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K10.00"
   },
   {
@@ -401,8 +401,8 @@
   {
     "QUANTITY": "1",
     "DESCRIPTION": "LINK ARAM",
-    "MODEL NUMBER": NaN,
-    "TYPES OF VEHICLE": NaN,
+    "MODEL NUMBER": "Not Available",
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K176.00"
   },
   {
@@ -416,7 +416,7 @@
     "QUANTITY": "3",
     "DESCRIPTION": "RELAY/ OVERLOAD",
     "MODEL NUMBER": "B11-298",
-    "TYPES OF VEHICLE": NaN,
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K130.00"
   },
   {
@@ -430,15 +430,15 @@
     "QUANTITY": "2",
     "DESCRIPTION": "SELF VULCANIZING TUBE PATCHES",
     "MODEL NUMBER": "65*125MM",
-    "TYPES OF VEHICLE": NaN,
-    "PRICE": NaN
+    "TYPES OF VEHICLE": "Not Available",
+    "PRICE": "Not Available"
   },
   {
     "QUANTITY": "6",
     "DESCRIPTION": "SELF VULCANIZING TUBE PATCHES",
     "MODEL NUMBER": "75MM P1112",
-    "TYPES OF VEHICLE": NaN,
-    "PRICE": NaN
+    "TYPES OF VEHICLE": "Not Available",
+    "PRICE": "Not Available"
   },
   {
     "QUANTITY": "1",
@@ -472,8 +472,8 @@
     "QUANTITY": "1",
     "DESCRIPTION": "DISC BRAKE PAD",
     "MODEL NUMBER": "D1063M",
-    "TYPES OF VEHICLE": NaN,
-    "PRICE": NaN
+    "TYPES OF VEHICLE": "Not Available",
+    "PRICE": "Not Available"
   },
   {
     "QUANTITY": "1",
@@ -507,63 +507,63 @@
     "QUANTITY": "8",
     "DESCRIPTION": "BRAKE PAD (AEKO)",
     "MODEL NUMBER": "D1520FF",
-    "TYPES OF VEHICLE": NaN,
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K170.00"
   },
   {
     "QUANTITY": "13",
     "DESCRIPTION": "BULBS 2412",
     "MODEL NUMBER": "24V 21/5W",
-    "TYPES OF VEHICLE": NaN,
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K5.00"
   },
   {
     "QUANTITY": "6",
     "DESCRIPTION": "AUTO LAMP BULB 5251016",
     "MODEL NUMBER": "12V 21/5W BAY15D",
-    "TYPES OF VEHICLE": NaN,
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K19.50"
   },
   {
     "QUANTITY": "7",
     "DESCRIPTION": "AUTOLAMP BULB 525 1141",
     "MODEL NUMBER": "24V 25W BAY 15S",
-    "TYPES OF VEHICLE": NaN,
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K3.00"
   },
   {
     "QUANTITY": "10",
     "DESCRIPTION": "AUTO LAMP BULB G18",
     "MODEL NUMBER": "24V 10W BAI5S",
-    "TYPES OF VEHICLE": NaN,
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K5.00"
   },
   {
     "QUANTITY": "30",
     "DESCRIPTION": "AUTO LAMP BULBD/C 1016",
     "MODEL NUMBER": "12V 21/5W",
-    "TYPES OF VEHICLE": NaN,
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K3.00"
   },
   {
     "QUANTITY": "1",
     "DESCRIPTION": "HALPGEN BULBS",
     "MODEL NUMBER": "12V55W P14 58",
-    "TYPES OF VEHICLE": NaN,
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K22.00"
   },
   {
     "QUANTITY": "2",
     "DESCRIPTION": "DIESEL TREATMENT",
-    "MODEL NUMBER": NaN,
-    "TYPES OF VEHICLE": NaN,
+    "MODEL NUMBER": "Not Available",
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K180.00"
   },
   {
     "QUANTITY": "1",
     "DESCRIPTION": "PUNCTURE SEALANT",
-    "MODEL NUMBER": NaN,
-    "TYPES OF VEHICLE": NaN,
+    "MODEL NUMBER": "Not Available",
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K140.00"
   },
   {
@@ -583,7 +583,7 @@
   {
     "QUANTITY": "8",
     "DESCRIPTION": "UNIVERSAL JOINT GMB",
-    "MODEL NUMBER": NaN,
+    "MODEL NUMBER": "Not Available",
     "TYPES OF VEHICLE": "KIA MOTORS 2700/ MAZDA T3500",
     "PRICE": "K168.00"
   },
@@ -619,14 +619,14 @@
     "QUANTITY": "5",
     "DESCRIPTION": "BATTERY TERMINAL",
     "MODEL NUMBER": "POSITIVE (+)",
-    "TYPES OF VEHICLE": NaN,
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K24.00"
   },
   {
-    "QUANTITY": NaN,
+    "QUANTITY": "Not Available",
     "DESCRIPTION": "BATTERY TERMINAL",
     "MODEL NUMBER": "NEGATIVE (-)",
-    "TYPES OF VEHICLE": NaN,
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K24.00"
   },
   {
@@ -640,13 +640,13 @@
     "QUANTITY": "3",
     "DESCRIPTION": "HALOGEN GLOBE",
     "MODEL NUMBER": "H1 12V",
-    "TYPES OF VEHICLE": NaN,
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K20.00"
   },
   {
     "QUANTITY": "1",
     "DESCRIPTION": "OIL SEAL",
-    "MODEL NUMBER": NaN,
+    "MODEL NUMBER": "Not Available",
     "TYPES OF VEHICLE": "H100",
     "PRICE": "K35.00"
   },
@@ -654,168 +654,168 @@
     "QUANTITY": "1",
     "DESCRIPTION": "STOPPER WASHER",
     "MODEL NUMBER": "HUSGAVANA",
-    "TYPES OF VEHICLE": NaN,
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K10.00"
   },
   {
     "QUANTITY": "1",
     "DESCRIPTION": "UAVEN ALLEN",
-    "MODEL NUMBER": NaN,
-    "TYPES OF VEHICLE": NaN,
+    "MODEL NUMBER": "Not Available",
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K7.00"
   },
   {
     "QUANTITY": "2",
     "DESCRIPTION": "TOUCH RELAY",
     "MODEL NUMBER": "TH-R905V/ 24V 5P RELAY",
-    "TYPES OF VEHICLE": NaN,
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K85.00"
   },
   {
     "QUANTITY": "1",
     "DESCRIPTION": "STIHL/ BRUSH",
     "MODEL NUMBER": "CUTTER FS-55",
-    "TYPES OF VEHICLE": NaN,
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K140.00"
   },
   {
     "QUANTITY": "3",
     "DESCRIPTION": "WIND SREEN WASHER",
-    "MODEL NUMBER": NaN,
-    "TYPES OF VEHICLE": NaN,
+    "MODEL NUMBER": "Not Available",
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K13.00"
   },
   {
     "QUANTITY": "6",
     "DESCRIPTION": "RHINOMEC",
     "MODEL NUMBER": "PAWL (10)",
-    "TYPES OF VEHICLE": NaN,
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K10.00"
   },
   {
-    "QUANTITY": NaN,
+    "QUANTITY": "Not Available",
     "DESCRIPTION": "O90 RING SET",
-    "MODEL NUMBER": NaN,
-    "TYPES OF VEHICLE": NaN,
+    "MODEL NUMBER": "Not Available",
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "NIL"
   },
   {
     "QUANTITY": "9",
     "DESCRIPTION": "WEDGE BULB",
     "MODEL NUMBER": "12V",
-    "TYPES OF VEHICLE": NaN,
-    "PRICE": NaN
+    "TYPES OF VEHICLE": "Not Available",
+    "PRICE": "Not Available"
   },
   {
     "QUANTITY": "5",
     "DESCRIPTION": "HEAD GASKET",
     "MODEL NUMBER": "1106-029-2300",
-    "TYPES OF VEHICLE": NaN,
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K20.00"
   },
   {
     "QUANTITY": "10",
     "DESCRIPTION": "FILE",
-    "MODEL NUMBER": NaN,
-    "TYPES OF VEHICLE": NaN,
+    "MODEL NUMBER": "Not Available",
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K30.00"
   },
   {
     "QUANTITY": "17",
     "DESCRIPTION": "30AMS",
     "MODEL NUMBER": "SMALL",
-    "TYPES OF VEHICLE": NaN,
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K3.00"
   },
   {
     "QUANTITY": "24",
     "DESCRIPTION": "15AMS",
-    "MODEL NUMBER": NaN,
-    "TYPES OF VEHICLE": NaN,
+    "MODEL NUMBER": "Not Available",
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K3.00"
   },
   {
     "QUANTITY": "17",
     "DESCRIPTION": "5AMS",
-    "MODEL NUMBER": NaN,
-    "TYPES OF VEHICLE": NaN,
+    "MODEL NUMBER": "Not Available",
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K4.00"
   },
   {
     "QUANTITY": "38",
     "DESCRIPTION": "20AMS",
-    "MODEL NUMBER": NaN,
-    "TYPES OF VEHICLE": NaN,
+    "MODEL NUMBER": "Not Available",
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K3.00"
   },
   {
     "QUANTITY": "20",
     "DESCRIPTION": "25AMS",
     "MODEL NUMBER": "SMALL",
-    "TYPES OF VEHICLE": NaN,
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K3.00"
   },
   {
     "QUANTITY": "38",
     "DESCRIPTION": "25AMS",
-    "MODEL NUMBER": NaN,
-    "TYPES OF VEHICLE": NaN,
+    "MODEL NUMBER": "Not Available",
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K3.00"
   },
   {
     "QUANTITY": "34",
     "DESCRIPTION": "20AMS",
-    "MODEL NUMBER": NaN,
-    "TYPES OF VEHICLE": NaN,
+    "MODEL NUMBER": "Not Available",
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K3.00"
   },
   {
     "QUANTITY": "19",
     "DESCRIPTION": "3AMS",
-    "MODEL NUMBER": NaN,
-    "TYPES OF VEHICLE": NaN,
+    "MODEL NUMBER": "Not Available",
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K4.00"
   },
   {
     "QUANTITY": "35",
     "DESCRIPTION": "7.5AMS",
-    "MODEL NUMBER": NaN,
-    "TYPES OF VEHICLE": NaN,
+    "MODEL NUMBER": "Not Available",
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K3.00"
   },
   {
     "QUANTITY": "92",
     "DESCRIPTION": "10AMS",
-    "MODEL NUMBER": NaN,
-    "TYPES OF VEHICLE": NaN,
+    "MODEL NUMBER": "Not Available",
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K3.00"
   },
   {
     "QUANTITY": "33",
     "DESCRIPTION": "30AMS",
     "MODEL NUMBER": "BIG",
-    "TYPES OF VEHICLE": NaN,
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K3.00"
   },
   {
     "QUANTITY": "5",
     "DESCRIPTION": "BOLT",
-    "MODEL NUMBER": NaN,
+    "MODEL NUMBER": "Not Available",
     "TYPES OF VEHICLE": "CHAINSAW",
     "PRICE": "K5.00"
   },
   {
     "QUANTITY": "1",
     "DESCRIPTION": "WASHER",
-    "MODEL NUMBER": NaN,
+    "MODEL NUMBER": "Not Available",
     "TYPES OF VEHICLE": "CHAINSAW",
     "PRICE": "K18.00"
   },
   {
     "QUANTITY": "1",
     "DESCRIPTION": "GRINDING RUBBER",
-    "MODEL NUMBER": NaN,
-    "TYPES OF VEHICLE": NaN,
+    "MODEL NUMBER": "Not Available",
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K10.00"
   },
   {
@@ -828,7 +828,7 @@
   {
     "QUANTITY": "2",
     "DESCRIPTION": "NUT",
-    "MODEL NUMBER": NaN,
+    "MODEL NUMBER": "Not Available",
     "TYPES OF VEHICLE": "CHAINSAW",
     "PRICE": "K4.00"
   },
@@ -842,21 +842,21 @@
   {
     "QUANTITY": "2",
     "DESCRIPTION": "HEAVY DUTY BATTERY CLAP",
-    "MODEL NUMBER": NaN,
-    "TYPES OF VEHICLE": NaN,
+    "MODEL NUMBER": "Not Available",
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K64.00"
   },
   {
     "QUANTITY": "2",
     "DESCRIPTION": "OIL SEAL",
     "MODEL NUMBER": "NJO 86",
-    "TYPES OF VEHICLE": NaN,
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K76.00"
   },
   {
     "QUANTITY": "1",
     "DESCRIPTION": "CRANK SHAFT REAR OIL SEAL",
-    "MODEL NUMBER": NaN,
+    "MODEL NUMBER": "Not Available",
     "TYPES OF VEHICLE": "HYUNDAI H100",
     "PRICE": "K54.00"
   },
@@ -864,27 +864,27 @@
     "QUANTITY": "2",
     "DESCRIPTION": "OIL SEAL",
     "MODEL NUMBER": "AE 1677H",
-    "TYPES OF VEHICLE": NaN,
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K70.00"
   },
   {
     "QUANTITY": "1",
     "DESCRIPTION": "STIHL BRUSH CUTTER ",
     "MODEL NUMBER": "1115-121-4800",
-    "TYPES OF VEHICLE": NaN,
-    "PRICE": NaN
+    "TYPES OF VEHICLE": "Not Available",
+    "PRICE": "Not Available"
   },
   {
     "QUANTITY": "2",
     "DESCRIPTION": "CUP JOINT",
     "MODEL NUMBER": "55832 H100",
-    "TYPES OF VEHICLE": NaN,
-    "PRICE": NaN
+    "TYPES OF VEHICLE": "Not Available",
+    "PRICE": "Not Available"
   },
   {
     "QUANTITY": "2",
     "DESCRIPTION": "OIL SEAL",
-    "MODEL NUMBER": NaN,
+    "MODEL NUMBER": "Not Available",
     "TYPES OF VEHICLE": "ISUZU 4GH1",
     "PRICE": "K90.00"
   },
@@ -892,27 +892,27 @@
     "QUANTITY": "1",
     "DESCRIPTION": "OIL SEAL",
     "MODEL NUMBER": "35-50-9.5",
-    "TYPES OF VEHICLE": NaN,
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K40.00"
   },
   {
     "QUANTITY": "2",
     "DESCRIPTION": "ORING",
-    "MODEL NUMBER": NaN,
-    "TYPES OF VEHICLE": NaN,
+    "MODEL NUMBER": "Not Available",
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K6.00"
   },
   {
     "QUANTITY": "4",
     "DESCRIPTION": "RHINOMEC",
     "MODEL NUMBER": "MODEL STO70",
-    "TYPES OF VEHICLE": NaN,
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K30.00"
   },
   {
     "QUANTITY": "15",
     "DESCRIPTION": "FLY WHEEL NUT",
-    "MODEL NUMBER": NaN,
+    "MODEL NUMBER": "Not Available",
     "TYPES OF VEHICLE": "CHAINSAW",
     "PRICE": "K10.00"
   },
@@ -926,28 +926,28 @@
   {
     "QUANTITY": "2",
     "DESCRIPTION": "SEAL CRANK 3HAFE",
-    "MODEL NUMBER": NaN,
+    "MODEL NUMBER": "Not Available",
     "TYPES OF VEHICLE": "TOYOTA HILUX",
-    "PRICE": NaN
+    "PRICE": "Not Available"
   },
   {
     "QUANTITY": "1",
     "DESCRIPTION": "REAR AXCEL SEAL",
-    "MODEL NUMBER": NaN,
+    "MODEL NUMBER": "Not Available",
     "TYPES OF VEHICLE": "L/CRUIZER",
     "PRICE": "K50.00"
   },
   {
     "QUANTITY": "1",
     "DESCRIPTION": "RELAY",
-    "MODEL NUMBER": NaN,
+    "MODEL NUMBER": "Not Available",
     "TYPES OF VEHICLE": "MAZDA BT50",
     "PRICE": "K190.00"
   },
   {
     "QUANTITY": "2",
     "DESCRIPTION": "LOCK NUT",
-    "MODEL NUMBER": NaN,
+    "MODEL NUMBER": "Not Available",
     "TYPES OF VEHICLE": "HIEACE BUS",
     "PRICE": "K227.00"
   },
@@ -968,14 +968,14 @@
   {
     "QUANTITY": "1",
     "DESCRIPTION": "DIFF OIL SEAL",
-    "MODEL NUMBER": NaN,
+    "MODEL NUMBER": "Not Available",
     "TYPES OF VEHICLE": "KIA",
     "PRICE": "K79.00"
   },
   {
     "QUANTITY": "1",
     "DESCRIPTION": "REAR SEAL",
-    "MODEL NUMBER": NaN,
+    "MODEL NUMBER": "Not Available",
     "TYPES OF VEHICLE": "DYNA",
     "PRICE": "K55.00"
   },
@@ -989,7 +989,7 @@
   {
     "QUANTITY": "1",
     "DESCRIPTION": "REAR ORANG",
-    "MODEL NUMBER": NaN,
+    "MODEL NUMBER": "Not Available",
     "TYPES OF VEHICLE": "TRACTOR 240",
     "PRICE": "K50.00"
   },
@@ -1003,7 +1003,7 @@
   {
     "QUANTITY": "6",
     "DESCRIPTION": "BACK AXCEL SEAL",
-    "MODEL NUMBER": NaN,
+    "MODEL NUMBER": "Not Available",
     "TYPES OF VEHICLE": "KIA MOTORS",
     "PRICE": "K72.00"
   },
@@ -1011,13 +1011,13 @@
     "QUANTITY": "1",
     "DESCRIPTION": "SMS",
     "MODEL NUMBER": "UMK 425",
-    "TYPES OF VEHICLE": NaN,
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K458.00"
   },
   {
     "QUANTITY": "1",
     "DESCRIPTION": "CRANK SHAFT SEAL",
-    "MODEL NUMBER": NaN,
+    "MODEL NUMBER": "Not Available",
     "TYPES OF VEHICLE": "HINO 500",
     "PRICE": "K180.00"
   },
@@ -1031,7 +1031,7 @@
   {
     "QUANTITY": "2",
     "DESCRIPTION": "HUB SEAL",
-    "MODEL NUMBER": NaN,
+    "MODEL NUMBER": "Not Available",
     "TYPES OF VEHICLE": "HILUX",
     "PRICE": "K20.00"
   },
@@ -1052,21 +1052,21 @@
   {
     "QUANTITY": "1",
     "DESCRIPTION": "REAR OIL SEAL",
-    "MODEL NUMBER": NaN,
+    "MODEL NUMBER": "Not Available",
     "TYPES OF VEHICLE": "L/CRUIZER",
     "PRICE": "K20.00"
   },
   {
     "QUANTITY": "4",
     "DESCRIPTION": "TUBE LES STEMP",
-    "MODEL NUMBER": NaN,
-    "TYPES OF VEHICLE": NaN,
+    "MODEL NUMBER": "Not Available",
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K10.00"
   },
   {
     "QUANTITY": "1",
     "DESCRIPTION": "SPRING BUS (BACK)",
-    "MODEL NUMBER": NaN,
+    "MODEL NUMBER": "Not Available",
     "TYPES OF VEHICLE": "ISUZU",
     "PRICE": "K50.00"
   },
@@ -1074,7 +1074,7 @@
     "QUANTITY": "1",
     "DESCRIPTION": "GEAR BOX",
     "MODEL NUMBER": "90310-35010",
-    "TYPES OF VEHICLE": NaN,
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K20.00"
   },
   {
@@ -1087,7 +1087,7 @@
   {
     "QUANTITY": "2",
     "DESCRIPTION": "SPRING BUS",
-    "MODEL NUMBER": NaN,
+    "MODEL NUMBER": "Not Available",
     "TYPES OF VEHICLE": "ISUZU FRT",
     "PRICE": "K49.00"
   },
@@ -1115,29 +1115,29 @@
   {
     "QUANTITY": "11",
     "DESCRIPTION": "BUSHING CUP",
-    "MODEL NUMBER": NaN,
-    "TYPES OF VEHICLE": NaN,
+    "MODEL NUMBER": "Not Available",
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K40.00"
   },
   {
     "QUANTITY": "4",
     "DESCRIPTION": "BUSH CUP HOLDER",
-    "MODEL NUMBER": NaN,
-    "TYPES OF VEHICLE": NaN,
+    "MODEL NUMBER": "Not Available",
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K40.00"
   },
   {
     "QUANTITY": "2",
     "DESCRIPTION": "BUSH SUSPENSION",
     "MODEL NUMBER": "BH11036",
-    "TYPES OF VEHICLE": NaN,
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K125.00"
   },
   {
     "QUANTITY": "2",
     "DESCRIPTION": "HUB-OIL SEAL",
     "MODEL NUMBER": "MT141132",
-    "TYPES OF VEHICLE": NaN,
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K50.00"
   },
   {
@@ -1150,28 +1150,28 @@
   {
     "QUANTITY": "1",
     "DESCRIPTION": "OIL SEAL CRANKSHAFT",
-    "MODEL NUMBER": NaN,
+    "MODEL NUMBER": "Not Available",
     "TYPES OF VEHICLE": "MITSUBISHI",
     "PRICE": "K30.00"
   },
   {
     "QUANTITY": "3",
     "DESCRIPTION": "BRAKE CUP",
-    "MODEL NUMBER": NaN,
+    "MODEL NUMBER": "Not Available",
     "TYPES OF VEHICLE": "ISUZU/H100",
     "PRICE": "K10.00"
   },
   {
     "QUANTITY": "1",
     "DESCRIPTION": "OIL SEAL",
-    "MODEL NUMBER": NaN,
+    "MODEL NUMBER": "Not Available",
     "TYPES OF VEHICLE": "H100",
     "PRICE": "K40.00"
   },
   {
     "QUANTITY": "8",
     "DESCRIPTION": "STARTER MOTOR BRH",
-    "MODEL NUMBER": NaN,
+    "MODEL NUMBER": "Not Available",
     "TYPES OF VEHICLE": "L/CRUIZER / ISUZU NPR",
     "PRICE": "K50.00"
   },
@@ -1185,14 +1185,14 @@
   {
     "QUANTITY": "2",
     "DESCRIPTION": "OIL SEAL",
-    "MODEL NUMBER": NaN,
+    "MODEL NUMBER": "Not Available",
     "TYPES OF VEHICLE": "DAIHATSU",
     "PRICE": "K55.00"
   },
   {
     "QUANTITY": "2",
     "DESCRIPTION": "ALTERNATOR BRUSH",
-    "MODEL NUMBER": NaN,
+    "MODEL NUMBER": "Not Available",
     "TYPES OF VEHICLE": "ISUZU NPR",
     "PRICE": "K50.00"
   },
@@ -1211,10 +1211,10 @@
     "PRICE": "K50.00"
   },
   {
-    "QUANTITY": NaN,
+    "QUANTITY": "Not Available",
     "DESCRIPTION": "SET RING",
     "MODEL NUMBER": "O90",
-    "TYPES OF VEHICLE": NaN,
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "NIL"
   },
   {
@@ -1234,7 +1234,7 @@
   {
     "QUANTITY": "1",
     "DESCRIPTION": "HEAD GASKET",
-    "MODEL NUMBER": NaN,
+    "MODEL NUMBER": "Not Available",
     "TYPES OF VEHICLE": "NISSAN D21",
     "PRICE": "K205.00"
   },
@@ -1269,106 +1269,106 @@
   {
     "QUANTITY": "4",
     "DESCRIPTION": "A20 FANBELT",
-    "MODEL NUMBER": NaN,
-    "TYPES OF VEHICLE": NaN,
+    "MODEL NUMBER": "Not Available",
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K29.00"
   },
   {
     "QUANTITY": "10",
     "DESCRIPTION": "A23 FANBELT",
-    "MODEL NUMBER": NaN,
-    "TYPES OF VEHICLE": NaN,
+    "MODEL NUMBER": "Not Available",
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K34.00"
   },
   {
     "QUANTITY": "3",
     "DESCRIPTION": "A24 FANBELT",
-    "MODEL NUMBER": NaN,
-    "TYPES OF VEHICLE": NaN,
+    "MODEL NUMBER": "Not Available",
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K34.00"
   },
   {
     "QUANTITY": "5",
     "DESCRIPTION": "A26 FANBELT",
-    "MODEL NUMBER": NaN,
-    "TYPES OF VEHICLE": NaN,
+    "MODEL NUMBER": "Not Available",
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K35.00"
   },
   {
     "QUANTITY": "5",
     "DESCRIPTION": "A27 FANBELT",
-    "MODEL NUMBER": NaN,
-    "TYPES OF VEHICLE": NaN,
+    "MODEL NUMBER": "Not Available",
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K40.00"
   },
   {
     "QUANTITY": "5",
     "DESCRIPTION": "A28 FANBELT",
-    "MODEL NUMBER": NaN,
-    "TYPES OF VEHICLE": NaN,
+    "MODEL NUMBER": "Not Available",
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K30.00"
   },
   {
     "QUANTITY": "3",
     "DESCRIPTION": "A29 FAB BELT",
-    "MODEL NUMBER": NaN,
-    "TYPES OF VEHICLE": NaN,
+    "MODEL NUMBER": "Not Available",
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K35.00"
   },
   {
     "QUANTITY": "2",
     "DESCRIPTION": "A30 FAB BELT",
-    "MODEL NUMBER": NaN,
-    "TYPES OF VEHICLE": NaN,
+    "MODEL NUMBER": "Not Available",
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K44.00"
   },
   {
     "QUANTITY": "10",
     "DESCRIPTION": "A31 FAN BELT",
-    "MODEL NUMBER": NaN,
-    "TYPES OF VEHICLE": NaN,
+    "MODEL NUMBER": "Not Available",
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K45.00"
   },
   {
     "QUANTITY": "16",
     "DESCRIPTION": "A32 FAN BELT",
-    "MODEL NUMBER": NaN,
-    "TYPES OF VEHICLE": NaN,
+    "MODEL NUMBER": "Not Available",
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K48.00"
   },
   {
-    "QUANTITY": NaN,
+    "QUANTITY": "Not Available",
     "DESCRIPTION": "A33FAN BELT",
-    "MODEL NUMBER": NaN,
-    "TYPES OF VEHICLE": NaN,
+    "MODEL NUMBER": "Not Available",
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K60.00"
   },
   {
     "QUANTITY": "3",
     "DESCRIPTION": "A34 FAN BELT",
-    "MODEL NUMBER": NaN,
-    "TYPES OF VEHICLE": NaN,
+    "MODEL NUMBER": "Not Available",
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K50.00"
   },
   {
     "QUANTITY": "4",
     "DESCRIPTION": "A35 FAN BELT",
-    "MODEL NUMBER": NaN,
-    "TYPES OF VEHICLE": NaN,
+    "MODEL NUMBER": "Not Available",
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K40.00"
   },
   {
     "QUANTITY": "4",
     "DESCRIPTION": "A36 FAN BELT",
-    "MODEL NUMBER": NaN,
-    "TYPES OF VEHICLE": NaN,
+    "MODEL NUMBER": "Not Available",
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K48.00"
   },
   {
     "QUANTITY": "6",
     "DESCRIPTION": "A37 FAN BELT",
-    "MODEL NUMBER": NaN,
-    "TYPES OF VEHICLE": NaN,
+    "MODEL NUMBER": "Not Available",
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K52.00"
   },
   {
@@ -1381,7 +1381,7 @@
   {
     "QUANTITY": "10",
     "DESCRIPTION": "A39 FAN BELT",
-    "MODEL NUMBER": NaN,
+    "MODEL NUMBER": "Not Available",
     "TYPES OF VEHICLE": "TYT DYNA",
     "PRICE": "K54.00"
   },
@@ -1395,322 +1395,322 @@
   {
     "QUANTITY": "28",
     "DESCRIPTION": "A41 FAN BELT",
-    "MODEL NUMBER": NaN,
+    "MODEL NUMBER": "Not Available",
     "TYPES OF VEHICLE": "BT50 LH202 FORD MIT CANTER",
     "PRICE": "K54.00"
   },
   {
     "QUANTITY": "10",
     "DESCRIPTION": "A42 FAN BELT",
-    "MODEL NUMBER": NaN,
+    "MODEL NUMBER": "Not Available",
     "TYPES OF VEHICLE": "FORD Y61",
     "PRICE": "K55.00"
   },
   {
     "QUANTITY": "16",
     "DESCRIPTION": "A43 FAN BELT",
-    "MODEL NUMBER": NaN,
+    "MODEL NUMBER": "Not Available",
     "TYPES OF VEHICLE": "Y61/CANTER/D22",
     "PRICE": "K54.00"
   },
   {
     "QUANTITY": "11",
     "DESCRIPTION": "A44 FAN BELT",
-    "MODEL NUMBER": NaN,
-    "TYPES OF VEHICLE": NaN,
+    "MODEL NUMBER": "Not Available",
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K55.00"
   },
   {
     "QUANTITY": "10",
     "DESCRIPTION": "A45 FAN BELT",
-    "MODEL NUMBER": NaN,
+    "MODEL NUMBER": "Not Available",
     "TYPES OF VEHICLE": "HD65/D22",
     "PRICE": "K55.00"
   },
   {
     "QUANTITY": "6",
     "DESCRIPTION": "A46 FAN BELT",
-    "MODEL NUMBER": NaN,
-    "TYPES OF VEHICLE": NaN,
+    "MODEL NUMBER": "Not Available",
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K55.00"
   },
   {
     "QUANTITY": "7",
     "DESCRIPTION": "A47 FAN BELT",
-    "MODEL NUMBER": NaN,
-    "TYPES OF VEHICLE": NaN,
+    "MODEL NUMBER": "Not Available",
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K56.00"
   },
   {
     "QUANTITY": "6",
     "DESCRIPTION": "A48 FAN BELT",
-    "MODEL NUMBER": NaN,
-    "TYPES OF VEHICLE": NaN,
+    "MODEL NUMBER": "Not Available",
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K57.00"
   },
   {
     "QUANTITY": "5",
     "DESCRIPTION": "A49 FAN BELT",
-    "MODEL NUMBER": NaN,
-    "TYPES OF VEHICLE": NaN,
+    "MODEL NUMBER": "Not Available",
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K52.00"
   },
   {
     "QUANTITY": "9",
     "DESCRIPTION": "A50 FAN BELT",
-    "MODEL NUMBER": NaN,
-    "TYPES OF VEHICLE": NaN,
+    "MODEL NUMBER": "Not Available",
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K59.00"
   },
   {
     "QUANTITY": "8",
     "DESCRIPTION": "A51 FAN BELT",
-    "MODEL NUMBER": NaN,
-    "TYPES OF VEHICLE": NaN,
+    "MODEL NUMBER": "Not Available",
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K60.00"
   },
   {
     "QUANTITY": "6",
     "DESCRIPTION": "A52 FAN BELT",
-    "MODEL NUMBER": NaN,
-    "TYPES OF VEHICLE": NaN,
+    "MODEL NUMBER": "Not Available",
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K58.00"
   },
   {
     "QUANTITY": "7",
     "DESCRIPTION": "A53 FAN BELT",
-    "MODEL NUMBER": NaN,
-    "TYPES OF VEHICLE": NaN,
+    "MODEL NUMBER": "Not Available",
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K59.00"
   },
   {
     "QUANTITY": "3",
     "DESCRIPTION": "A54 FAN BELT",
-    "MODEL NUMBER": NaN,
-    "TYPES OF VEHICLE": NaN,
+    "MODEL NUMBER": "Not Available",
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K60.00"
   },
   {
     "QUANTITY": "6",
     "DESCRIPTION": "A55 FAN BELT",
-    "MODEL NUMBER": NaN,
-    "TYPES OF VEHICLE": NaN,
+    "MODEL NUMBER": "Not Available",
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K67.00"
   },
   {
     "QUANTITY": "5",
     "DESCRIPTION": "A56 FAN BELT",
-    "MODEL NUMBER": NaN,
-    "TYPES OF VEHICLE": NaN,
+    "MODEL NUMBER": "Not Available",
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K68.00"
   },
   {
     "QUANTITY": "11",
     "DESCRIPTION": "A57 FAN BELT",
-    "MODEL NUMBER": NaN,
+    "MODEL NUMBER": "Not Available",
     "TYPES OF VEHICLE": "NPR71 ACON",
     "PRICE": "K69.00"
   },
   {
     "QUANTITY": "6",
     "DESCRIPTION": "A59 FAN BELT",
-    "MODEL NUMBER": NaN,
-    "TYPES OF VEHICLE": NaN,
+    "MODEL NUMBER": "Not Available",
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K65.00"
   },
   {
     "QUANTITY": "12",
     "DESCRIPTION": "A60 FAN BELT",
-    "MODEL NUMBER": NaN,
-    "TYPES OF VEHICLE": NaN,
+    "MODEL NUMBER": "Not Available",
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K58.00"
   },
   {
     "QUANTITY": "3",
     "DESCRIPTION": "A61 FAN BELT",
-    "MODEL NUMBER": NaN,
-    "TYPES OF VEHICLE": NaN,
+    "MODEL NUMBER": "Not Available",
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K64.00"
   },
   {
     "QUANTITY": "3",
     "DESCRIPTION": "A62 FAN BELT",
-    "MODEL NUMBER": NaN,
-    "TYPES OF VEHICLE": NaN,
+    "MODEL NUMBER": "Not Available",
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K65.00"
   },
   {
-    "QUANTITY": NaN,
+    "QUANTITY": "Not Available",
     "DESCRIPTION": "A63 FAN BELT",
-    "MODEL NUMBER": NaN,
-    "TYPES OF VEHICLE": NaN,
+    "MODEL NUMBER": "Not Available",
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K70.00"
   },
   {
     "QUANTITY": "10",
     "DESCRIPTION": "A65 FAN BELT",
-    "MODEL NUMBER": NaN,
-    "TYPES OF VEHICLE": NaN,
+    "MODEL NUMBER": "Not Available",
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K70.00"
   },
   {
     "QUANTITY": "3",
     "DESCRIPTION": "A67 FAN BELT",
-    "MODEL NUMBER": NaN,
-    "TYPES OF VEHICLE": NaN,
+    "MODEL NUMBER": "Not Available",
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K72.00"
   },
   {
     "QUANTITY": "10",
     "DESCRIPTION": "A68 FAN BELT",
-    "MODEL NUMBER": NaN,
-    "TYPES OF VEHICLE": NaN,
+    "MODEL NUMBER": "Not Available",
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K67.00"
   },
   {
     "QUANTITY": "5",
     "DESCRIPTION": "A69 FAN BELT",
-    "MODEL NUMBER": NaN,
-    "TYPES OF VEHICLE": NaN,
+    "MODEL NUMBER": "Not Available",
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K69.00"
   },
   {
     "QUANTITY": "6",
     "DESCRIPTION": "A70 FAN BELT",
-    "MODEL NUMBER": NaN,
-    "TYPES OF VEHICLE": NaN,
+    "MODEL NUMBER": "Not Available",
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K74.00"
   },
   {
     "QUANTITY": "2",
     "DESCRIPTION": "A72 FAN BELT",
-    "MODEL NUMBER": NaN,
-    "TYPES OF VEHICLE": NaN,
+    "MODEL NUMBER": "Not Available",
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K78.00"
   },
   {
     "QUANTITY": "2",
     "DESCRIPTION": "A73 FAN BELT",
-    "MODEL NUMBER": NaN,
-    "TYPES OF VEHICLE": NaN,
+    "MODEL NUMBER": "Not Available",
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K74.00"
   },
   {
     "QUANTITY": "10",
     "DESCRIPTION": "A74 FAN BELT",
-    "MODEL NUMBER": NaN,
-    "TYPES OF VEHICLE": NaN,
+    "MODEL NUMBER": "Not Available",
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K78.00"
   },
   {
     "QUANTITY": "11",
     "DESCRIPTION": "A75 FAN BELT",
-    "MODEL NUMBER": NaN,
-    "TYPES OF VEHICLE": NaN,
+    "MODEL NUMBER": "Not Available",
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K90.00"
   },
   {
     "QUANTITY": "4",
     "DESCRIPTION": "A77 FAN BELT",
-    "MODEL NUMBER": NaN,
-    "TYPES OF VEHICLE": NaN,
+    "MODEL NUMBER": "Not Available",
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K88.00"
   },
   {
     "QUANTITY": "7",
     "DESCRIPTION": "A82 FAN BELT",
-    "MODEL NUMBER": NaN,
-    "TYPES OF VEHICLE": NaN,
+    "MODEL NUMBER": "Not Available",
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K85.00"
   },
   {
     "QUANTITY": "10",
     "DESCRIPTION": "A83 FAN BELT",
-    "MODEL NUMBER": NaN,
-    "TYPES OF VEHICLE": NaN,
+    "MODEL NUMBER": "Not Available",
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K95.00"
   },
   {
     "QUANTITY": "8",
     "DESCRIPTION": "A84 FAN BELT",
-    "MODEL NUMBER": NaN,
-    "TYPES OF VEHICLE": NaN,
+    "MODEL NUMBER": "Not Available",
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K95.00"
   },
   {
     "QUANTITY": "1",
     "DESCRIPTION": "A93 FAN BELT",
-    "MODEL NUMBER": NaN,
-    "TYPES OF VEHICLE": NaN,
+    "MODEL NUMBER": "Not Available",
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K290.00"
   },
   {
     "QUANTITY": "8",
     "DESCRIPTION": "B38 FAN  BELT",
-    "MODEL NUMBER": NaN,
-    "TYPES OF VEHICLE": NaN,
+    "MODEL NUMBER": "Not Available",
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K40.00"
   },
   {
     "QUANTITY": "5",
     "DESCRIPTION": "B40 FAN BELT",
-    "MODEL NUMBER": NaN,
-    "TYPES OF VEHICLE": NaN,
+    "MODEL NUMBER": "Not Available",
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K52.00"
   },
   {
     "QUANTITY": "8",
     "DESCRIPTION": "B41 FAN BELT",
-    "MODEL NUMBER": NaN,
-    "TYPES OF VEHICLE": NaN,
+    "MODEL NUMBER": "Not Available",
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K70.00"
   },
   {
     "QUANTITY": "11",
     "DESCRIPTION": "B42 FAN BELT",
-    "MODEL NUMBER": NaN,
-    "TYPES OF VEHICLE": NaN,
+    "MODEL NUMBER": "Not Available",
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K70.00"
   },
   {
     "QUANTITY": "1",
     "DESCRIPTION": "B43 FAN BELT",
-    "MODEL NUMBER": NaN,
-    "TYPES OF VEHICLE": NaN,
+    "MODEL NUMBER": "Not Available",
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K73.00"
   },
   {
     "QUANTITY": "2",
     "DESCRIPTION": "B44 FAN BELT",
-    "MODEL NUMBER": NaN,
-    "TYPES OF VEHICLE": NaN,
+    "MODEL NUMBER": "Not Available",
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K56.00"
   },
   {
     "QUANTITY": "6",
     "DESCRIPTION": "B45 FAN BELT",
-    "MODEL NUMBER": NaN,
-    "TYPES OF VEHICLE": NaN,
+    "MODEL NUMBER": "Not Available",
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K75.00"
   },
   {
     "QUANTITY": "4",
     "DESCRIPTION": "B46 FAN BELT",
-    "MODEL NUMBER": NaN,
-    "TYPES OF VEHICLE": NaN,
+    "MODEL NUMBER": "Not Available",
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K74.00"
   },
   {
     "QUANTITY": "4",
     "DESCRIPTION": "B47 FAN BELT",
-    "MODEL NUMBER": NaN,
-    "TYPES OF VEHICLE": NaN,
+    "MODEL NUMBER": "Not Available",
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K78.00"
   },
   {
     "QUANTITY": "1",
     "DESCRIPTION": "TIMING BELT",
-    "MODEL NUMBER": NaN,
+    "MODEL NUMBER": "Not Available",
     "TYPES OF VEHICLE": "L/ROVER",
     "PRICE": "K170.00"
   },
@@ -1739,7 +1739,7 @@
     "QUANTITY": "2",
     "DESCRIPTION": "FAN BELT",
     "MODEL NUMBER": "A2630/A102",
-    "TYPES OF VEHICLE": NaN,
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K200.00"
   },
   {
@@ -1851,11 +1851,11 @@
     "QUANTITY": "1",
     "DESCRIPTION": "CHAINSAW BAR",
     "MODEL NUMBER": "32' INCH",
-    "TYPES OF VEHICLE": NaN,
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K1,365.00"
   },
   {
-    "QUANTITY": NaN,
+    "QUANTITY": "Not Available",
     "DESCRIPTION": "CHAINSAW ",
     "MODEL NUMBER": "MS 720 COMPLETE",
     "TYPES OF VEHICLE": "DISCOUNT PRICE- K5745.30",
@@ -1865,15 +1865,15 @@
     "QUANTITY": "ROLL",
     "DESCRIPTION": "CHAINSAW  ROPE",
     "MODEL NUMBER": "         1METER",
-    "TYPES OF VEHICLE": NaN,
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K10.00"
   },
   {
     "QUANTITY": "1-880419-ROLL",
     "DESCRIPTION": "SAW CHAIN RIP (STIHL)",
-    "MODEL NUMBER": NaN,
+    "MODEL NUMBER": "Not Available",
     "TYPES OF VEHICLE": "GST 10% K179.32+ 1793.22=K1972.54",
-    "PRICE": NaN
+    "PRICE": "Not Available"
   },
   {
     "QUANTITY": "25",
@@ -1976,14 +1976,14 @@
   {
     "QUANTITY": "2",
     "DESCRIPTION": "880409",
-    "MODEL NUMBER": NaN,
+    "MODEL NUMBER": "Not Available",
     "TYPES OF VEHICLE": "CARBURETOR",
     "PRICE": "K400.00"
   },
   {
     "QUANTITY": "2",
     "DESCRIPTION": "880350",
-    "MODEL NUMBER": NaN,
+    "MODEL NUMBER": "Not Available",
     "TYPES OF VEHICLE": "CYLINDER W/PISTON",
     "PRICE": "K750.00"
   },
@@ -1992,13 +1992,13 @@
     "DESCRIPTION": "BEARING ",
     "MODEL NUMBER": "503-25-30-01",
     "TYPES OF VEHICLE": "HUSQVARNA",
-    "PRICE": NaN
+    "PRICE": "Not Available"
   },
   {
     "QUANTITY": "2",
     "DESCRIPTION": "BEARING ",
     "MODEL NUMBER": "MF 365 4*4/ SP10049/SP10010",
-    "TYPES OF VEHICLE": NaN,
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K598.00"
   },
   {
@@ -2047,7 +2047,7 @@
     "QUANTITY": "1",
     "DESCRIPTION": "BEARING NIS",
     "MODEL NUMBER": "6306 2RS (Y1)",
-    "TYPES OF VEHICLE": NaN,
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K40.00"
   },
   {
@@ -2103,14 +2103,14 @@
     "QUANTITY": "1",
     "DESCRIPTION": "BEARING INNER KOYO",
     "MODEL NUMBER": "J230814",
-    "TYPES OF VEHICLE": NaN,
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K169.00"
   },
   {
     "QUANTITY": "1",
     "DESCRIPTION": "BEARING NSK",
     "MODEL NUMBER": "XQMJC 2406032/ HR-32310/55",
-    "TYPES OF VEHICLE": NaN,
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K260.00"
   },
   {
@@ -2124,14 +2124,14 @@
     "QUANTITY": "1",
     "DESCRIPTION": "BEARING ",
     "MODEL NUMBER": "32205 (Y)",
-    "TYPES OF VEHICLE": NaN,
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K50.00"
   },
   {
     "QUANTITY": "1",
     "DESCRIPTION": "BEARING",
     "MODEL NUMBER": "6207",
-    "TYPES OF VEHICLE": NaN,
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K55.00"
   },
   {
@@ -2152,7 +2152,7 @@
     "QUANTITY": "1",
     "DESCRIPTION": "BEARING KOYO",
     "MODEL NUMBER": "38WD15/ FG GK8  BC401",
-    "TYPES OF VEHICLE": NaN,
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K176.00"
   },
   {
@@ -2166,63 +2166,63 @@
     "QUANTITY": "1",
     "DESCRIPTION": "RELEASE BEARING",
     "MODEL NUMBER": "JWB320",
-    "TYPES OF VEHICLE": NaN,
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K130.00"
   },
   {
     "QUANTITY": "2",
     "DESCRIPTION": "BEARING INNER",
-    "MODEL NUMBER": NaN,
-    "TYPES OF VEHICLE": NaN,
+    "MODEL NUMBER": "Not Available",
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K169.00"
   },
   {
     "QUANTITY": "2",
     "DESCRIPTION": "BEARING NSK",
     "MODEL NUMBER": "XIYKJ 2404020/ OZ2474/20",
-    "TYPES OF VEHICLE": NaN,
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K65.00"
   },
   {
     "QUANTITY": "1",
     "DESCRIPTION": "BEARING DIFF",
     "MODEL NUMBER": "32305/D214WD",
-    "TYPES OF VEHICLE": NaN,
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K52.00"
   },
   {
     "QUANTITY": "1",
     "DESCRIPTION": "BEARING",
     "MODEL NUMBER": "XIKG 2301003/HI-AP32208",
-    "TYPES OF VEHICLE": NaN,
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K230.00"
   },
   {
     "QUANTITY": "1",
     "DESCRIPTION": "BEARING",
     "MODEL NUMBER": "XID 2304023",
-    "TYPES OF VEHICLE": NaN,
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K170.00"
   },
   {
     "QUANTITY": "1",
     "DESCRIPTION": "BEARING",
     "MODEL NUMBER": "22207CAW33C3",
-    "TYPES OF VEHICLE": NaN,
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K295.00"
   },
   {
     "QUANTITY": "1",
     "DESCRIPTION": "BEARING",
     "MODEL NUMBER": "HR 32210J",
-    "TYPES OF VEHICLE": NaN,
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K180.00"
   },
   {
     "QUANTITY": "2",
     "DESCRIPTION": "BEARING NIS",
     "MODEL NUMBER": "4F-18690/620",
-    "TYPES OF VEHICLE": NaN,
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K64.00"
   },
   {
@@ -2250,14 +2250,14 @@
     "QUANTITY": "1",
     "DESCRIPTION": "BEARING NSK",
     "MODEL NUMBER": "HR-32210J",
-    "TYPES OF VEHICLE": NaN,
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K180.00"
   },
   {
     "QUANTITY": "2",
     "DESCRIPTION": "BEARING NSK",
     "MODEL NUMBER": "ZA-HO/38BWD15A",
-    "TYPES OF VEHICLE": NaN,
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K199.00"
   },
   {
@@ -2334,42 +2334,42 @@
     "QUANTITY": "1",
     "DESCRIPTION": "BEARING NSK",
     "MODEL NUMBER": "6203DDUM",
-    "TYPES OF VEHICLE": NaN,
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K35.00"
   },
   {
     "QUANTITY": "1",
     "DESCRIPTION": "BEARING BALL KSM",
     "MODEL NUMBER": "690422",
-    "TYPES OF VEHICLE": NaN,
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K46.00"
   },
   {
     "QUANTITY": "1",
     "DESCRIPTION": "BEARING",
     "MODEL NUMBER": "300622",
-    "TYPES OF VEHICLE": NaN,
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K38.00"
   },
   {
     "QUANTITY": "1",
     "DESCRIPTION": "BEARING",
     "MODEL NUMBER": "HK 35016B",
-    "TYPES OF VEHICLE": NaN,
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K90.00"
   },
   {
     "QUANTITY": "4",
     "DESCRIPTION": "UKS BEARING",
     "MODEL NUMBER": "6202",
-    "TYPES OF VEHICLE": NaN,
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K30.00"
   },
   {
     "QUANTITY": "2",
     "DESCRIPTION": "BEARING NSK",
     "MODEL NUMBER": "M12649/10 108",
-    "TYPES OF VEHICLE": NaN,
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K70.00"
   },
   {
@@ -2383,14 +2383,14 @@
     "QUANTITY": "1",
     "DESCRIPTION": "BEARING",
     "MODEL NUMBER": "32305",
-    "TYPES OF VEHICLE": NaN,
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K52.00"
   },
   {
     "QUANTITY": "5",
     "DESCRIPTION": "BEARING",
     "MODEL NUMBER": "6000 22",
-    "TYPES OF VEHICLE": NaN,
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K24.00"
   },
   {
@@ -2404,7 +2404,7 @@
     "QUANTITY": "4",
     "DESCRIPTION": "BEARING",
     "MODEL NUMBER": "6082",
-    "TYPES OF VEHICLE": NaN,
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K23.00"
   },
   {
@@ -2439,7 +2439,7 @@
     "QUANTITY": "7",
     "DESCRIPTION": "BEARING ASSY",
     "MODEL NUMBER": "BF265-179080",
-    "TYPES OF VEHICLE": NaN,
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K300.00"
   },
   {
@@ -2478,59 +2478,59 @@
     "PRICE": "K160.00"
   },
   {
-    "QUANTITY": NaN,
+    "QUANTITY": "Not Available",
     "DESCRIPTION": "HUB BEARING ",
     "MODEL NUMBER": "HW22023 A2107",
     "TYPES OF VEHICLE": "NISSAN X-TRAIL T-30",
-    "PRICE": NaN
+    "PRICE": "Not Available"
   },
   {
-    "QUANTITY": NaN,
+    "QUANTITY": "Not Available",
     "DESCRIPTION": "ROLLER BEARING",
     "MODEL NUMBER": "ZA-/HO/3BWD12A-JB01 908",
     "TYPES OF VEHICLE": "NISSAN X-TRAIL T-30",
-    "PRICE": NaN
+    "PRICE": "Not Available"
   },
   {
-    "QUANTITY": NaN,
+    "QUANTITY": "Not Available",
     "DESCRIPTION": "TIE ROD END",
     "MODEL NUMBER": "48520-OP725 GIPIW",
     "TYPES OF VEHICLE": "NISSAN X-TRAIL T-30",
-    "PRICE": NaN
+    "PRICE": "Not Available"
   },
   {
-    "QUANTITY": NaN,
+    "QUANTITY": "Not Available",
     "DESCRIPTION": "STEERING ROD",
     "MODEL NUMBER": "48521-8H300",
     "TYPES OF VEHICLE": "NISSAN X-TRAIL T-30",
-    "PRICE": NaN
+    "PRICE": "Not Available"
   },
   {
     "QUANTITY": "1",
     "DESCRIPTION": "BEARING",
     "MODEL NUMBER": "600IRS",
-    "TYPES OF VEHICLE": NaN,
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K60.00"
   },
   {
     "QUANTITY": "1",
     "DESCRIPTION": "OIL FILTER",
     "MODEL NUMBER": "0-1808",
-    "TYPES OF VEHICLE": NaN,
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K66.00"
   },
   {
     "QUANTITY": "3",
     "DESCRIPTION": "OIL FILTER",
     "MODEL NUMBER": "C-1513",
-    "TYPES OF VEHICLE": NaN,
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K120.00"
   },
   {
     "QUANTITY": "3",
     "DESCRIPTION": "AIR FILTER",
     "MODEL NUMBER": "17801-0CQ10",
-    "TYPES OF VEHICLE": NaN,
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K50.00"
   },
   {
@@ -2558,7 +2558,7 @@
     "QUANTITY": "1",
     "DESCRIPTION": "AIR FILTER",
     "MODEL NUMBER": "8-97062-294-0K1",
-    "TYPES OF VEHICLE": NaN,
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K220.00"
   },
   {
@@ -2628,7 +2628,7 @@
     "QUANTITY": "15",
     "DESCRIPTION": "FUEL FILTER",
     "MODEL NUMBER": "F-3214",
-    "TYPES OF VEHICLE": NaN,
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K54.00"
   },
   {
@@ -2656,7 +2656,7 @@
     "QUANTITY": "1",
     "DESCRIPTION": " ELEMENT-ASSY/ FUEL FILTER",
     "MODEL NUMBER": "23390-0L070",
-    "TYPES OF VEHICLE": NaN,
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K60.00"
   },
   {
@@ -2705,28 +2705,28 @@
     "QUANTITY": "1",
     "DESCRIPTION": "OIL FILTER",
     "MODEL NUMBER": "U2Y0-14-302K1",
-    "TYPES OF VEHICLE": NaN,
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K84.00"
   },
   {
     "QUANTITY": "4",
     "DESCRIPTION": "OIL FILTER",
     "MODEL NUMBER": "5-87310-488-0K1",
-    "TYPES OF VEHICLE": NaN,
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K156.00"
   },
   {
     "QUANTITY": "2",
     "DESCRIPTION": "OIL FILTER",
     "MODEL NUMBER": "320/B4420",
-    "TYPES OF VEHICLE": NaN,
-    "PRICE": NaN
+    "TYPES OF VEHICLE": "Not Available",
+    "PRICE": "Not Available"
   },
   {
     "QUANTITY": "2",
     "DESCRIPTION": "FUEL FILTER",
     "MODEL NUMBER": "FC-1004",
-    "TYPES OF VEHICLE": NaN,
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K62.00"
   },
   {
@@ -2740,7 +2740,7 @@
     "QUANTITY": "1",
     "DESCRIPTION": "FLEET GUARD/ LUBE FILTER",
     "MODEL NUMBER": "LF 785",
-    "TYPES OF VEHICLE": NaN,
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K50.00"
   },
   {
@@ -2761,8 +2761,8 @@
     "QUANTITY": "1",
     "DESCRIPTION": "OIL FILTER",
     "MODEL NUMBER": "C-1803",
-    "TYPES OF VEHICLE": NaN,
-    "PRICE": NaN
+    "TYPES OF VEHICLE": "Not Available",
+    "PRICE": "Not Available"
   },
   {
     "QUANTITY": "1",
@@ -2804,55 +2804,55 @@
     "DESCRIPTION": "FUEL  FILTER ",
     "MODEL NUMBER": "16405-01T7",
     "TYPES OF VEHICLE": "TRACTOR GENSET",
-    "PRICE": NaN
+    "PRICE": "Not Available"
   },
   {
     "QUANTITY": "1",
     "DESCRIPTION": "FUEL FILTER",
     "MODEL NUMBER": "31922-2E900K1",
-    "TYPES OF VEHICLE": NaN,
-    "PRICE": NaN
+    "TYPES OF VEHICLE": "Not Available",
+    "PRICE": "Not Available"
   },
   {
     "QUANTITY": "1",
     "DESCRIPTION": "FUEL  FILTER ",
     "MODEL NUMBER": "16405-021V10K1",
-    "TYPES OF VEHICLE": NaN,
-    "PRICE": NaN
+    "TYPES OF VEHICLE": "Not Available",
+    "PRICE": "Not Available"
   },
   {
     "QUANTITY": "5",
     "DESCRIPTION": "FUEL  FILTER ",
     "MODEL NUMBER": "23303-54011K1",
-    "TYPES OF VEHICLE": NaN,
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K50.00"
   },
   {
     "QUANTITY": "3",
     "DESCRIPTION": "RYCO FUEL FILTER",
-    "MODEL NUMBER": NaN,
-    "TYPES OF VEHICLE": NaN,
-    "PRICE": NaN
+    "MODEL NUMBER": "Not Available",
+    "TYPES OF VEHICLE": "Not Available",
+    "PRICE": "Not Available"
   },
   {
     "QUANTITY": "1",
     "DESCRIPTION": "AIR FILTER",
     "MODEL NUMBER": "537-01-47-01",
     "TYPES OF VEHICLE": "HUSQVARNA",
-    "PRICE": NaN
+    "PRICE": "Not Available"
   },
   {
     "QUANTITY": "1",
     "DESCRIPTION": "AIR FILTER RYCO",
     "MODEL NUMBER": "R2410P",
-    "TYPES OF VEHICLE": NaN,
-    "PRICE": NaN
+    "TYPES OF VEHICLE": "Not Available",
+    "PRICE": "Not Available"
   },
   {
     "QUANTITY": "1",
     "DESCRIPTION": "FUEL FILTER",
     "MODEL NUMBER": "MB220900K1",
-    "TYPES OF VEHICLE": NaN,
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K59.00"
   },
   {
@@ -2866,14 +2866,14 @@
     "QUANTITY": "1",
     "DESCRIPTION": "FILTER DRIER",
     "MODEL NUMBER": "EK-164",
-    "TYPES OF VEHICLE": NaN,
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K206.00"
   },
   {
     "QUANTITY": "1",
     "DESCRIPTION": "OIL FILTER",
     "MODEL NUMBER": "C-1515",
-    "TYPES OF VEHICLE": NaN,
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K86.00"
   },
   {
@@ -2894,7 +2894,7 @@
     "QUANTITY": "1",
     "DESCRIPTION": "OIL FILTER",
     "MODEL NUMBER": "P558616",
-    "TYPES OF VEHICLE": NaN,
+    "TYPES OF VEHICLE": "Not Available",
     "PRICE": "K76.00"
   }
 ]
