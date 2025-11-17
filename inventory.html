@@ -26,7 +26,7 @@ document.addEventListener('DOMContentLoaded', () => {
           <p><strong>Vehicle:</strong> ${item['TYPES OF VEHICLE']}</p>
           <p><strong>Price:</strong> ${item.PRICE}</p>
           <p><strong>Quantity:</strong> ${item.QUANTITY}</p>
-          <button onclick="goToQuotePage()">View Quote</button>
+          <button onclick='showDetail(${JSON.stringify(item)})'>View Details</button>
                   `;
         grid.appendChild(div);
       });
