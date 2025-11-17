@@ -73,8 +73,19 @@ function addToQuote() {
   alert(`${item.description} added to quote.`);
 }
 
+// ✅ Updated function to open quotation page in a new tab with confirmation
 function goToQuotePage() {
-  window.location.href = 'quotation.html';
+  const quoteItems = JSON.parse(localStorage.getItem('quoteItems') || '[]');
+
+  if (quoteItems.length === 0) {
+    alert('Your quote is empty. Please add items before viewing the quote.');
+    return;
+  }
+
+  const confirmOpen = confirm('Do you want to view your quotation in a new tab?');
+  if (confirmOpen) {
+    window.open('quotation.html', '_blank'); // Opens in a new tab
+  }
 }
 </script>
 </head>
