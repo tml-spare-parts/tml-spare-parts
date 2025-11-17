@@ -3,42 +3,67 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>TML Spare Parts</title>
+    <title>Tsirin Motors Limited</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <header>
-        <h1>TML Spare Parts</h1>
-        <nav>
-            <a href="index.html">Home</a>
-            <a href="inventory.html">Inventory</a>
+        <nav class="navbar">
+            <div class="logo">Tsirin Motors Ltd</div>
+            <ul class="nav-links">
+                <li><a href="#">Home</a></li>
+                <li><a href="#services">Services</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+            <div class="menu-toggle">&#9776;</div>
         </nav>
+        <section class="hero">
+            <h1>Your Trusted Partner in Automotive & Airline Services</h1>
+            <p>Serving Bougainville since 1992 with excellence and innovation.</p>
+            <a href="#services" class="btn-primary">Explore Services</a>
+        </section>
     </header>
 
     <main>
-        <center><h2>Welcome to Tsirin Motors Ltd (TML)</h2></center>
-        <p><strong>Location:</strong> Buka Town, Autonomous Region of Bougainville, Papua New Guinea</p>
-        <p><strong>Established:</strong> Operating since 1992</p>
-        <p><strong>Mission:</strong> To provide superior office space lease, automotive solutions including spare parts, and airline services while exceeding customer expectations and contributing to community development.</p>
-        <p><strong>Vision:</strong> To be the leading provider of integrated automotive, real estate, and airline ground operations in Bougainville.</p>
-        <p><strong>Core Values:</strong> Integrity, Excellence, Customer Satisfaction, Innovation, Sustainability.</p>
+        <section id="services" class="services">
+            <h2>Our Services</h2>
+            <div class="service-grid">
+                <div class="card">
+                    <h3>Office Space Leasing</h3>
+                    <p>Premium office suites for top-tier clients.</p>
+                </div>
+                <div class="card">
+                   Wide range of parts for Toyota, Hyundai, Mitsubishi, and more.</p>
+                </div>
+                <div class="card">
+                    <h3>Airline Ground Operations</h3>
+                    <p>Authorized PNGAIR partner for ticketing and baggage handling.</p>
+                </div>
+                <div class="card">
+                    <h3>Additional Services</h3>
+                    <p>Civil works, refrigeration, maintenance, and more.</p>
+                </div>
+            </div>
+        </section>
 
-        <h3>Our Services</h3>
-        <p>✔ Office Space Leasing – Six premium office suites serving clients like Australian High Commission, PNG Customs, and more.</p>
-        <p>✔ Vehicle Spare Parts – Toyota, Hyundai, Mitsubishi, Nissan, Isuzu, Kia, plus sawmill equipment for Lucas Mill models.</p>
-        <p>✔ Airline Ground Operations & Ticketing – Trusted partner for PNGAIR, offering baggage handling, aircraft ground handling, and ticketing services.</p>
-        <p>✔ Additional Services – Civil works, refrigeration, building maintenance, fuel tank servicing, hire cars, and storage</p>
-
-        <h3>Company History</h3>
-        <p>Tsirin Motors Limited (TML) is a family-owned SME founded in 1992 by Joseph Sukaliana. Originally established as Tsirin Mechanical Repair, the business focused on vehicle repairs, spare parts sales, refrigeration, and air conditioning services with a team of 12. In 1994, TML was incorporated under the Investment Promotion Authority Act and became Tsirin Motors Ltd.</p>
-        <p>Between 1994 and 1997, TML acquired land in Buka Town and built a two-story building for operations and office tenants. Today, the company employs 21 staff and offers diverse services including office space rentals, motor vehicle spare parts sales, and authorized PNGAIR services for ticketing and ground handling.</p>
-        <p>In 2014, TML secured a major contract with PNGAIR for ticketing services, followed by a ground handling contract in 2017. TML continues to expand its services to meet the growing needs of Bougainville and Papua New Guinea.</p>
-
-
-        <center><a href="inventory.html" class="btn-primary">View Inventory</a></center>
+        <section id="about" class="about">
+            <h2>About Us</h2>
+            <p>Tsirin Motors Limited is a family-owned SME founded in 1992. We aim to provide superior services while contributing to community development.</p>
+        </section>
     </main>
 
     <footer>
-        &copy; 2025 Tsirin Motors Ltd | Contact: +675 70396700 | Email: nsukaliana@gmail.com
+        <p>&copy; 2025 Tsirin Motors Limited | Follow us on <a href="#">Facebook</a> | <a href="#">LinkedIn</a></p>
     </footer>
+
+    <script>
+        const toggle = document.querySelector('.menu-toggle');
+        const navLinks = document.querySelector('.nav-links');
+        toggle.addEventListener('click', () => {
+            navLinks.classList.toggle('active');
+        });
+    </script>
 </body>
+</html>
