@@ -4,10 +4,8 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Inventory - TML Spare Parts</title>
-<link rel="stylesheet" href="style.css">
+style.css
 <script>
-let quoteItems = [];
-
 document.addEventListener('DOMContentLoaded', () => {
   fetch('inventory_from_csv.json')
     .then(response => response.json())
@@ -20,9 +18,9 @@ document.addEventListener('DOMContentLoaded', () => {
 
       data.forEach(item => {
         const div = document.createElement('div');
-        div.className = 'item';
+       .className = 'item';
         div.innerHTML = `
-          <img src="placeholder.jpg" alt="Item image">
+          placeholder.jpg
           <h3>${item.DESCRIPTION}</h3>
           <p><strong>Model:</strong> ${item['MODEL NUMBER']}</p>
           <p><strong>Vehicle:</strong> ${item['TYPES OF VEHICLE']}</p>
@@ -67,51 +65,16 @@ function addToQuote() {
     price: document.getElementById('detail-price').textContent.replace('K', ''),
     quantity: document.getElementById('detail-quantity').textContent
   };
+
+  let quoteItems = JSON.parse(localStorage.getItem('quoteItems') || '[]');
   quoteItems.push(item);
+  localStorage.setItem('quoteItems', JSON.stringify(quoteItems));
+
   alert(`${item.description} added to quote.`);
 }
 
-function showQuote() {
-  let html = `
-    <div class="quote-container">
-      <h1>TSIRIN MOTORS LIMITED</h1>
-      <h2>QUOTATION</h2>
-      <p>Date: ${new Date().toLocaleDateString()}</p>
-      <table>
-        <thead>
-          <tr>
-            <th>Description</th><th>Qty</th><th>Unit Price</th><th>Amount</th>
-          </tr>
-        </thead>
-        <tbody>
-  `;
-  let subtotal = 0;
-  quoteItems.forEach(item => {
-    const qty = parseInt(item.quantity || 1);
-    const price = parseFloat(item.price) || 0;
-    const amount = price * qty;
-    subtotal += amount;
-    html += `
-      <tr>
-        <td>${item.description}</td>
-        <td>${qty}</td>
-        <td>K${price.toFixed(2)}</td>
-        <td>K${amount.toFixed(2)}</td>
-      </tr>
-    `;
-  });
-  const tax = subtotal * 0.10;
-  const total = subtotal + tax;
-  html += `
-        </tbody>
-      </table>
-      <p><strong>Subtotal:</strong> K${subtotal.toFixed(2)}</p>
-      <p><strong>Tax (10%):</strong> K${tax.toFixed(2)}</p>
-      <h3>Total: K${total.toFixed(2)}</h3>
-      <button onclick="window.print()">Print Quotation</button>
-    </div>
-  `;
-  document.body.innerHTML = html;
+function goToQuotePage() {
+  window.location.href = 'quotation.html';
 }
 </script>
 </head>
@@ -119,9 +82,9 @@ function showQuote() {
 <header>
   <h1>Inventory</h1>
   <nav>
-    <a href="index.html">Home</a>
-    <a href="inventory.html">Inventory</a>
-    <button onclick="showQuote()">View Quote</button>
+    index.htmlHome</a>
+    inventory.htmlInventory</a>
+    <button onclick="goToQuotePage()">View Quote</button>
   </nav>
 </header>
 <main>
@@ -135,7 +98,7 @@ function showQuote() {
 <div id="detail-view" class="detail-view" style="display:none;">
   <div class="detail-container">
     <div class="detail-image">
-      <img id="detail-img" src="placeholder.jpg" alt="Item image">
+      placeholder.jpg
     </div>
     <div class="detail-info">
       <h2 id="detail-title"></h2>
@@ -153,4 +116,3 @@ function showQuote() {
   <p>&copy; 2025 TML Spare Parts</p>
 </footer>
 </body>
-</html>
