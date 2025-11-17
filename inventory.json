@@ -1,22 +1,24 @@
 {
   "Inventory": [
     {
-      "description": "N/A",
-      "model": "N/A",
-      "price": "N/A",
-      "quantity": "N/A"
+      "description": "CARTRIDGES",
+      "model": "R236P (LUBZ)",
+      "price": "25",
+      "quantity": "4"
+
     },
     {
-      "description": "N/A",
-      "model": "N/A",
-      "price": "N/A",
-      "quantity": "N/A"
+      "description": "GASKET KIT PIN",
+      "model": "384778900",
+      "price": "61",
+      "quantity": "2"
+
     },
     {
-      "description": "N/A",
-      "model": "N/A",
-      "price": "N/A",
-      "quantity": "N/A"
+      "description": "ROUND FILE 7/32",
+      "model": "CHAINSAW",
+      "price": "19",
+      "quantity": "25"
     },
     {
       "description": "N/A",
