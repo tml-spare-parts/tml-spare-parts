@@ -5,12 +5,28 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Quotation - TSIRIN MOTORS LIMITED</title>
 <link rel="stylesheet" href="style.css">
+<style>
+  .logo {
+    display: block;
+    margin: 0 auto;
+    width: 150px; /* Adjust size as needed */
+  }
+  .header {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+</style>
 </head>
 <body>
-<div-container">
-  <h1>TSIRIN MOTORS LIMITED</h1>
-  <h2>QUOTATION</h2>
-  <p>Date: <span id="quote-date"></span></p>
+<div class="container">
+  <div class="header">
+    <!-- Company Logo -->
+    <img src="tml-logo.png" alt="TSIRIN MOTORS LIMITED Logo" class="logo">
+    <h1>TSIRIN MOTORS LIMITED</h1>
+    <h2>QUOTATION</h2>
+    <p>Date: <span id="quote-date"></span></p>
+  </div>
+
   <table>
     <thead>
       <tr>
@@ -22,11 +38,13 @@
     </thead>
     <tbody id="quote-items"></tbody>
   </table>
+
   <div class="totals">
     <p><strong>Subtotal:</strong> K<span id="subtotal">0.00</span></p>
     <p><strong>Tax (10%):</strong> K<span id="tax">0.00</span></p>
-    <h3<span id="total">0.00</span></h3>
+    <h3>Total: K<span id="total">0.00</span></h3>
   </div>
+
   <div class="footer">
     <p><strong>Account Details:</strong></p>
     <p>Bank: Bank South Pacific</p>
@@ -35,6 +53,7 @@
     <p>TIN #: 500036089</p>
     <p>Thank you for your business!</p>
   </div>
+
   <button onclick="window.print()">Print Quotation</button>
 </div>
 
