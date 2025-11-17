@@ -7,30 +7,31 @@
 <link rel="stylesheet" href="style.css">
 <script>
 document.addEventListener('DOMContentLoaded', () => {
-  fetch('inventory.json')
+  fetch('inventory_from_csv.json')
     .then(response => response.json())
     .then(data => {
       const main = document.querySelector('main');
-      for (const category in data) {
-        const section = document.createElement('section');
-        section.className = 'category';
-        section.innerHTML = `<h2>${category}</h2><div class='grid'></div>`;
-        const grid = section.querySelector('.grid');
-        data[category].forEach(item => {
-          const div = document.createElement('div');
-          div.className = 'item';
-          div.innerHTML = `
-            <img src="placeholder.jpg" alt="Item image">
-            <h3>${item.description}</h3>
-            <p>Model: ${item.model}</p>
-            <p>Price: ${item.price}</p>
-            <p>Quantity: ${item.quantity}</p>
-            <button onclick='showDetail(${JSON.stringify(item)})'>View Details</button>
-          `;
-          grid.appendChild(div);
-        });
-        main.appendChild(section);
-      }
+      const section = document.createElement('section');
+      section.className = 'category';
+      section.innerHTML = `<h2>Inventory Items</h2><div class='grid'></div>`;
+      const grid = section.querySelector('.grid');
+
+      data.forEach(item => {
+        const div = document.createElement('div');
+        div.className = 'item';
+        div.innerHTML = `
+          <img src="placeholder.jpg" alt="Item image">
+          <h3>${item.DESCRIPTION}</h3>
+          <p><strong>Model:</strong> ${item['MODEL NUMBER']}</p>
+          <p><strong>Vehicle:</strong> ${item['TYPES OF VEHICLE']}</p>
+          <p><strong>Price:</strong> ${item.PRICE}</p>
+          <p><strong>Quantity:</strong> ${item.QUANTITY}</p>
+          <button onclick='showDetail(${JSON.stringify(item)})'>View Details</button>
+        `;
+        grid.appendChild(div);
+      });
+
+      main.appendChild(section);
     });
 });
 
@@ -45,11 +46,11 @@ function searchItems() {
 
 function showDetail(item) {
   document.getElementById('detail-img').src = 'placeholder.jpg';
-  document.getElementById('detail-title').textContent = item.description;
-  document.getElementById('detail-model').textContent = item.model;
-  document.getElementById('detail-price').textContent = item.price;
-  document.getElementById('detail-quantity').textContent = item.quantity;
-  document.getElementById('detail-description').textContent = "High-quality spare part for various vehicles.";
+  document.getElementById('detail-title').textContent = item.DESCRIPTION;
+  document.getElementById('detail-model').textContent = item['MODEL NUMBER'];
+  document.getElementById('detail-price').textContent = item.PRICE;
+  document.getElementById('detail-quantity').textContent = item.QUANTITY;
+  document.getElementById('detail-description').textContent = "Detailed information about this spare part.";
   document.getElementById('detail-view').style.display = 'flex';
 }
 
