@@ -116,21 +116,25 @@ nav button:hover {
     background: #B71C1C;
 }
 
-/* Detail View Popup */
+/* Detail View Popup - Responsive */
 .detail-view {
     position: fixed;
-    top: 0; left: 0;
-    width: 20px; height: auto;
-    background: rgba(0,0,0,0.6);
+    top: 0;
+    left: 0;
+    width: 100%; /* Full screen */
+    height: 100%;
+    background: rgba(0, 0, 0, 0.6);
     display: flex;
     justify-content: center;
     align-items: center;
     z-index: 999;
+    padding: 10px; /* For small screens */
 }
 
 .detail-container {
     background: #fff;
     display: flex;
+    flex-direction: row;
     gap: 20px;
     padding: 20px;
     border-radius: 8px;
@@ -139,7 +143,8 @@ nav button:hover {
 }
 
 .detail img {
-    width: 300px;
+    width: 100%;
+    max-width: 300px;
     height: auto;
     border-radius: 8px;
 }
@@ -169,6 +174,22 @@ nav button:hover {
 
 .detail-info button:hover {
     background: #B71C1C;
+}
+
+/* Mobile adjustments */
+@media (max-width: 600px) {
+    .detail-container {
+        flex-direction: column; /* Stack vertically */
+        padding: 15px;
+    }
+
+    .detail img {
+        max-width: 100%; /* Full width */
+    }
+
+    .detail-info button {
+        width: 100%; /* Full-width button */
+    }
 }
 
 footer {
