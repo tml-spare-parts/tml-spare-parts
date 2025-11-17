@@ -167,3 +167,81 @@ footer {
   color: #fff;
   margin-top: 20px;
 }
+
+/* Quotation Layout */
+.quote-container {
+  font-family: Arial, sans-serif;
+  width: 100%;
+  max-width: 800px;
+  margin: auto;
+  padding: 20px;
+  background: #fff;
+  color: #000;
+}
+
+.quote-container h1 {
+  font-size: 24px;
+  margin-bottom: 5px;
+  text-transform: uppercase;
+}
+
+.quote-container h2 {
+  font-size: 20px;
+  margin-bottom: 15px;
+  text-transform: uppercase;
+}
+
+.quote-container p {
+  margin: 5px 0;
+}
+
+.quote-container table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 15px;
+}
+
+.quote-container th,
+.quote-container td {
+  border: 1px solid #000;
+  padding: 8px;
+  text-align: left;
+  font-size: 14px;
+}
+
+.quote-container th {
+  background: #000;
+  color: #fff;
+}
+
+.quote-container button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  background: #0066cc;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.quote-container button:hover {
+  background: #004c99;
+}
+
+/* Print Styling for A4 */
+@media print {
+  body {
+    width: 210mm;
+    height: 297mm;
+    margin: 0;
+    font-size: 12pt;
+    background: #fff;
+  }
+  .quote-container {
+    padding: 20mm;
+    box-shadow: none;
+  }
+  .quote-container button {
+    display: none; /* Hide print button */
+  }
+}

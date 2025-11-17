@@ -6,6 +6,8 @@
 <title>Inventory - TML Spare Parts</title>
 <link rel="stylesheet" href="style.css">
 <script>
+let quoteItems = [];
+
 document.addEventListener('DOMContentLoaded', () => {
   fetch('inventory_from_csv.json')
     .then(response => response.json())
@@ -57,6 +59,60 @@ function showDetail(item) {
 function closeDetail() {
   document.getElementById('detail-view').style.display = 'none';
 }
+
+function addToQuote() {
+  const item = {
+    description: document.getElementById('detail-title').textContent,
+    model: document.getElementById('detail-model').textContent,
+    price: document.getElementById('detail-price').textContent.replace('K', ''),
+    quantity: document.getElementById('detail-quantity').textContent
+  };
+  quoteItems.push(item);
+  alert(`${item.description} added to quote.`);
+}
+
+function showQuote() {
+  let html = `
+    <div class="quote-container">
+      <h1>TSIRIN MOTORS LIMITED</h1>
+      <h2>QUOTATION</h2>
+      <p>Date: ${new Date().toLocaleDateString()}</p>
+      <table>
+        <thead>
+          <tr>
+            <th>Description</th><th>Qty</th><th>Unit Price</th><th>Amount</th>
+          </tr>
+        </thead>
+        <tbody>
+  `;
+  let subtotal = 0;
+  quoteItems.forEach(item => {
+    const qty = parseInt(item.quantity || 1);
+    const price = parseFloat(item.price) || 0;
+    const amount = price * qty;
+    subtotal += amount;
+    html += `
+      <tr>
+        <td>${item.description}</td>
+        <td>${qty}</td>
+        <td>K${price.toFixed(2)}</td>
+        <td>K${amount.toFixed(2)}</td>
+      </tr>
+    `;
+  });
+  const tax = subtotal * 0.10;
+  const total = subtotal + tax;
+  html += `
+        </tbody>
+      </table>
+      <p><strong>Subtotal:</strong> K${subtotal.toFixed(2)}</p>
+      <p><strong>Tax (10%):</strong> K${tax.toFixed(2)}</p>
+      <h3>Total: K${total.toFixed(2)}</h3>
+      <button onclick="window.print()">Print Quotation</button>
+    </div>
+  `;
+  document.body.innerHTML = html;
+}
 </script>
 </head>
 <body>
@@ -65,6 +121,7 @@ function closeDetail() {
   <nav>
     <a href="index.html">Home</a>
     <a href="inventory.html">Inventory</a>
+    <button onclick="showQuote()">View Quote</button>
   </nav>
 </header>
 <main>
@@ -86,6 +143,7 @@ function closeDetail() {
       <p><strong>Price:</strong> <span id="detail-price"></span></p>
       <p><strong>Quantity:</strong> <span id="detail-quantity"></span></p>
       <p id="detail-description"></p>
+      <button onclick="addToQuote()">Add to Quote</button>
       <button onclick="closeDetail()">Close</button>
     </div>
   </div>
